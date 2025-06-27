@@ -1,0 +1,10 @@
+# Ignorar el entorno virtual de Python
+venv/
+
+# Ignorar el archivo de variables de entorno locales
+.env
+
+# Ignorar los archivos de Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
